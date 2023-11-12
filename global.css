@@ -1,0 +1,35 @@
+.fs15{
+    font-size: 15px;
+}
+.fs25{
+    font-size: 25px;
+}
+.fs35{
+    font-size: 35px;
+}
+.fs50{
+    font-size: 50px;
+}
+
+.color-red {
+    color: red;
+}
+.color-pink {
+    color: deeppink;
+}
+.color-darkgreen {
+    color: darkgreen;
+}
+.ortala-liste{
+    list-style-position: width: 720px;
+    position: relative;
+    left: 50%;
+    margin-left: -220px;;
+}
+.ortala{
+    text-align: center;
+}
+body{
+    font-family: "times", Times, serif;
+}
+body{background-image: url(borsa.jpg);}
